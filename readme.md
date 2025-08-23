@@ -3,6 +3,8 @@
 A simple PySpark project demonstrating how to read data from **Amazon S3** using Databricks, perform basic transformations, and write the processed data back to S3. This project serves as a starting point for building cloud-based ETL pipelines with Spark.
 ## 📊 Architecture
 
+### Databricks S3 Pipeline
+
 ![Databricks S3 Pipeline](s3-databricks-architecture.png)
 
 The diagram illustrates the flow of data in the Databricks S3 Pipeline:
@@ -12,6 +14,8 @@ The diagram illustrates the flow of data in the Databricks S3 Pipeline:
 - **Amazon S3 (Processed Data)**: The processed data is then written back to Amazon S3, ready for further analysis or use.
 
 This setup enables efficient data processing and storage, leveraging the scalability of both Databricks and Amazon S3.
+
+### Medallion Architecture
 
 ![Medallion Architecture](meddalion_layers.png)
 
