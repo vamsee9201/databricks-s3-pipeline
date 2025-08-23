@@ -10,3 +10,4 @@ A simple PySpark project demonstrating how to read data from **Amazon S3** using
 - **Email**: [vamseekrishna9201@gmail.com](mailto:vamseekrishna9201@gmail.com)  
 - **LinkedIn**: [Vamsee Krishna Kotha](https://www.linkedin.com/in/vamseekrishnakotha/)
 
+![Medallion Architecture](meddalion_layers.png)
