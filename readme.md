@@ -40,6 +40,6 @@ To learn more about setting up and using secrets, visit the [Databricks Secrets 
 
 ## 📂 Code File
 
-The main code file for this project is `pyspark-testing.ipynb`, which contains the PySpark code for processing data in the Databricks environment. This notebook demonstrates how to read data from S3, perform transformations, and write the processed data back to S3.
+The main code file for this project is `databricks_s3_pipeline_notebook.ipynb`, which contains the PySpark code for processing data in the Databricks environment. This notebook demonstrates how to read data from S3, perform transformations, and write the processed data back to S3.
 
 
