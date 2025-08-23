@@ -5,9 +5,11 @@ A simple PySpark project demonstrating how to read data from **Amazon S3** using
 
 ![Databricks S3 Pipeline](s3-databricks-architecture.png)
 
+![Medallion Architecture](meddalion_layers.png)
+
 ## 📬 Contact Me
 
 - **Email**: [vamseekrishna9201@gmail.com](mailto:vamseekrishna9201@gmail.com)  
 - **LinkedIn**: [Vamsee Krishna Kotha](https://www.linkedin.com/in/vamseekrishnakotha/)
 
-![Medallion Architecture](meddalion_layers.png)
+
