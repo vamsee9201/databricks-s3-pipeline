@@ -32,4 +32,14 @@ By structuring data in this way, the Medallion Architecture ensures data quality
 - **Email**: [vamseekrishna9201@gmail.com](mailto:vamseekrishna9201@gmail.com)  
 - **LinkedIn**: [Vamsee Krishna Kotha](https://www.linkedin.com/in/vamseekrishnakotha/)
 
+## 🔒 Managing Secrets
+
+For secure management of credentials and sensitive information, Databricks provides a feature called [Secrets](https://docs.databricks.com/aws/en/security/secrets/). This allows you to store and reference sensitive data without exposing it in your notebooks or jobs.
+
+To learn more about setting up and using secrets, visit the [Databricks Secrets Documentation](https://docs.databricks.com/aws/en/security/secrets/).
+
+## 📂 Code File
+
+The main code file for this project is `pyspark-testing.ipynb`, which contains the PySpark code for processing data in the Databricks environment. This notebook demonstrates how to read data from S3, perform transformations, and write the processed data back to S3.
+
 
